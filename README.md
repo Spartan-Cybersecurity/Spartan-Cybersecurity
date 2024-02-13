@@ -1,7 +1,7 @@
 # Bienvenidos a Spartan-Cybersecurity :shield:
 
 ## :computer: ¿Quiénes Somos?
-**SpartanCyberSecurity** es la **cuenta oficial** de nuestra academia, dedicada a forjar **especialistas en Ethical Hacking**. Nuestra misión es brindar una educación online de vanguardia en seguridad informática y hacking ético, diseñada para introducir a estudiantes en las tecnologías de punta y el arte del pentesting.
+**SpartanCyberSecurity** somos una academia, dedicada a forjar **especialistas en Ethical Hacking**. Nuestra misión es brindar una educación online de vanguardia en seguridad informática y hacking ético, diseñada para introducir a estudiantes en las tecnologías de punta y el arte del pentesting.
 
 ### :dart: Nuestro Enfoque
 Ofrecemos una experiencia de aprendizaje única mediante **laboratorios prácticos**, donde asumirás el rol de un consultor de ciberseguridad ofensiva. Tu desafío será comprometer múltiples objetivos, poniendo a prueba tus habilidades y conocimientos en situaciones reales.
