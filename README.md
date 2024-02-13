@@ -12,12 +12,12 @@ Nuestro objetivo es que aprendas las técnicas utilizadas por hackers contempor�
 
 Estamos orgullosos de ofrecer una amplia gama de certificaciones profesionales para aquellos que buscan especializarse en diferentes áreas del pentesting y la ciberseguridad:
 
-- **[Certificado profesional de pentesting contra la nube de AWS](https://www.spartan-cybersec.com/cursos/pentesting-contra-la-nube-de-aws/)**
-- **[Certificado profesional de RedTeam OPS Developer](https://www.spartan-cybersec.com/cursos/redteams-ops-developer/)**
-- **[Certificado profesional de pentesting contra la nube de AZURE](https://www.spartan-cybersec.com/cursos/pentesting-contra-la-nube-de-azure/)**
-- **[Certificado profesional de pentesting para Juniors](https://www.spartan-cybersec.com/cursos/pentesting-para-juniors/)**
-- **[Certificado profesional de pentesting contra Active Directory](https://www.spartan-cybersec.com/cursos/pentesting-contra-active-directory/)**
-- **[Certificado profesional de RedTeam OPS Developer II - [RTOD-v2]](https://www.spartan-cybersec.com/redteams-ops-developer-v2/)**
+- **[Certificado Profesional de Pentesting contra la Nube de AWS | [CPNA]](https://www.spartan-cybersec.com/cursos/pentesting-contra-la-nube-de-aws/)**
+- **[Certificado Profesional de RedTeam OPS Developer Senior | [RTOD-100]](https://www.spartan-cybersec.com/cursos/redteams-ops-developer/)**
+- **[Certificado Profesional de Pentesting contra la Nube de AZURE | [CPAZ]](https://www.spartan-cybersec.com/cursos/pentesting-contra-la-nube-de-azure/)**
+- **[Certificado Profesional de Pentesting para Juniors | [CPPJ]](https://www.spartan-cybersec.com/cursos/pentesting-para-juniors/)**
+- **[Certificado Profesional de Pentesting contra Active Directory | [CPAD-100]](https://www.spartan-cybersec.com/cursos/pentesting-contra-active-directory/)**
+- **[Certificado Profesional de RedTeam OPS Developer Advanced | [RTOD-200]](https://www.spartan-cybersec.com/redteams-ops-developer-v2/)**
 
 ## :tv: Síguenos en YouTube
 
