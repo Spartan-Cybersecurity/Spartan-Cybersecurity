@@ -23,6 +23,13 @@ Estamos orgullosos de ofrecer una amplia gama de certificaciones profesionales p
 
 No te pierdas nuestras últimas actualizaciones, tutoriales y demostraciones prácticas. ¡Suscríbete a nuestro [canal de YouTube](https://www.youtube.com/SpartanCybersecurity) y forma parte de nuestra comunidad!
 
+## :books: ¿Que es Spartan-Books?  
+Visita [https://books.spartan-cybersec.com/](https://books.spartan-cybersec.com/) para visualizar nuestros E-books y unirte a nuestra comunidad de aprendizaje. ¡Tu viaje hacia la maestría en ciberseguridad comienza aquí, en **Spartan-Books**!
+- [La Biblia del Hacker Para Juniors](https://books.spartan-cybersec.com/cppj)
+- [La Biblia del Hacker en Active Directory](https://books.spartan-cybersec.com/cpad)
+- [La Biblia del Hacker en AWS](https://books.spartan-cybersec.com/cpna)
+- [La Biblia del Hacker en ICS/SCADA](https://books.spartan-cybersec.com/cpics)
+
 ## :handshake: Únete a Nuestra Comunidad
 
 Estamos comprometidos con la creación de una comunidad sólida y activa en el campo de la ciberseguridad. Si estás listo para llevar tus habilidades al siguiente nivel y hacer una diferencia en el mundo digital, **SpartanCyberSecurity** es tu lugar.
